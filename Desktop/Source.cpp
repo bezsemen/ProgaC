@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//std
 #include<math.h>
 #include<assert.h>
 
